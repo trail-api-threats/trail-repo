@@ -1,6 +1,6 @@
 # trail-repo
 
-Push directly to main
+Push directly to main updated
 
 
 tanmay@checkred.com  
