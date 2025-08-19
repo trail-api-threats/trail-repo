@@ -1,6 +1,6 @@
 # trail-repo
 
-Push directly to main updated
+Create a branch rule , modify the rule and commit changes 
 
 
 tanmay@checkred.com  
